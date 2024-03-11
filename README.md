@@ -1,5 +1,16 @@
 # GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage
 
+This is inspired by
+* [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24)
+* [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA)
+* [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI)
+
+## Abstract
+
+Dense and durable, DNA offers a promising avenue for storing big data for a long time. Designing a good DNA-based data storage system, however, is as challenging as minimizing synthesis time, watching for GC balance, avoiding long homopolymers and secondary structures, fixing substitution-insertion-deletion errors, and taking advantage of the sampling reader all at the same time. In this talk, we use a polar code to protect the ith symbols of the DNA strands for each position i. Because polar codes achieve capacity, our construction achieves, assuming perfect indexing, the capacity derived by Lenz, Siegel, Wachter-Zeh, and Yaakobi. And because polar codes can work with any input distribution, our construction provides a flexible interface to avoid bad patterns.
+
+## Preview
+
 ---
 
 ![Screenshot of Endless Paper drawing](png/gw-1.png)
