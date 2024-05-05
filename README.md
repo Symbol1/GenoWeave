@@ -1,9 +1,11 @@
 # GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage
 
 This is inspired by
-* [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24)
-* [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA)
-* [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI)
+* [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24) by Scientificus
+* [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA) by carykh
+* [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI) by CGP Grey
+* [You Are The Center of The Universe (Literally)](https://www.youtube.com/watch?v=Z_1Q0XB4X0Y) by Kurzgesagt
+* [Video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
 
 ## Abstract
 
