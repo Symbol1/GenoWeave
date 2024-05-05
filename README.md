@@ -5,7 +5,8 @@ This is inspired by
 * [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA) by carykh
 * [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI) by CGP Grey
 * [You Are The Center of The Universe (Literally)](https://www.youtube.com/watch?v=Z_1Q0XB4X0Y) by Kurzgesagt
-* [Video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
+* Search result: [video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
+* [Alex Evett](https://www.youtube.com/@AlexEvett55/videos)
 
 ## Abstract
 
