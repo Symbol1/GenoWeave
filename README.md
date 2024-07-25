@@ -1,5 +1,7 @@
 # GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage
 
+This is used in [ITA 2024](https://ita.ucsd.edu/workshop/schedule)
+
 ## Abstract
 
 Dense and durable, DNA offers a promising avenue for storing big data
@@ -21,9 +23,11 @@ The `.epa` file belongs to [Endless Paper](https://endlesspaper.app).
 Search [infinite zoom](https://www.youtube.com/results?search_query=infinite+zoom)
 on Youtube for demo.
 
-See also [SparseProblems](https://github.com/Symbol1/SparseProblems).
+See also
+* [SpeakTensor](https://github.com/Symbol1/SpeakTensor)
+* [SparseProblems](https://github.com/Symbol1/SparseProblems)
 
-My presentation is inspired by
+This type of presentation is inspired by
 * [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24) by Scientificus
 * [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA) by carykh
 
